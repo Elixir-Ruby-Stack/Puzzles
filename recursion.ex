@@ -3,4 +3,7 @@ defmodule	Recursion do
 		IO.puts String.duplicate("*",n)
 		print_astrix(n-1)
 	end
+	def print_astrix(0) do
+                IO.puts "-------------"
+        end
 end
