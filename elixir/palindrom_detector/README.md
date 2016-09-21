@@ -10,7 +10,7 @@ Code will be run from iex, when your code is executed it will prompt for user in
  malayalam
  manaohar
  ```
- ###output 
+###output 
  ```
  true
  false
