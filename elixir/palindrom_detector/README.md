@@ -15,3 +15,12 @@ Code will be run from iex, when your code is executed it will prompt for user in
  true
  false
  ```
+ 
+ If suppose a word is not a plaidrome  programe should find the possition missplaced letter
+ ###Example
+ Civilc
+ Then the programe should  give output like
+ ```
+ false
+ 5
+ ```
