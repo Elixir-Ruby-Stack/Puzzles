@@ -5,12 +5,12 @@
 
 Code will be run from iex, when your code is executed it will prompt for user input and on return will output a true or false value.
 
-*input 
+###input 
  ```
  malayalam
  manaohar
  ```
- *output 
+ ###output 
  ```
  true
  false
